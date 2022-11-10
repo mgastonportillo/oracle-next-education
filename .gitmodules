@@ -1,0 +1,6 @@
+[submodule "one-01-programming-logic"]
+	path = one-01-programming-logic
+	url = https://github.com/mgastonportillo/one-01-programming-logic.git
+[submodule "one-02-html5-css3"]
+	path = one-02-html5-css3
+	url = https://github.com/mgastonportillo/one-02-html5-css3.git
