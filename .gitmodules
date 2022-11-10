@@ -16,6 +16,12 @@
 [submodule "06-responsive-layouts"]
 	path = one-06-responsive-layouts
 	url = https://github.com/mgastonportillo/one-06-responsive-layouts.git
-[submodule "07-css-architecture"]
+[submodule "one-07-css-architecture"]
 	path = one-07-css-architecture
 	url = https://github.com/mgastonportillo/one-07-css-architecture.git
+[submodule "one-09-js-dom-manipulation"]
+	path = one-09-js-dom-manipulation
+	url = https://github.com/mgastonportillo/one-09-js-dom-manipulation.git
+[submodule "one-10-js-form-validation"]
+	path = one-10-js-form-validation
+	url = https://github.com/mgastonportillo/one-10-js-form-validation.git
