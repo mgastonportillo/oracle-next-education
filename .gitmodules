@@ -1,6 +1,21 @@
-[submodule "one-01-programming-logic"]
+[submodule "01-programming-logic"]
 	path = one-01-programming-logic
 	url = https://github.com/mgastonportillo/one-01-programming-logic.git
-[submodule "one-02-html5-css3"]
+[submodule "02-html5-css3"]
 	path = one-02-html5-css3
 	url = https://github.com/mgastonportillo/one-02-html5-css3.git
+[submodule "03-git-github"]
+	path = one-03-git-github
+	url = https://github.com/mgastonportillo/one-03-git-github.git
+[submodule "04-flexbox"]
+	path = one-04-flexbox
+	url = https://github.com/mgastonportillo/one-04-flexbox.git
+[submodule "05-css-grid"]
+	path = one-05-css-grid
+	url = https://github.com/mgastonportillo/one-05-css-grid.git
+[submodule "06-responsive-layouts"]
+	path = one-06-responsive-layouts
+	url = https://github.com/mgastonportillo/one-06-responsive-layouts.git
+[submodule "07-css-architecture"]
+	path = one-07-css-architecture
+	url = https://github.com/mgastonportillo/one-07-css-architecture.git
